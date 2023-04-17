@@ -1,0 +1,4 @@
+﻿  연속된 부분 수열의 합.cpp
+D:\CodingTest\230417\연속된 부분 수열의 합.cpp(15,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230417\연속된 부분 수열의 합.cpp(26,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230417.vcxproj -> D:\CodingTest\Debug\230417.exe
