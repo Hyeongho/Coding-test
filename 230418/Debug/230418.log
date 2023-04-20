@@ -1,2 +1,7 @@
 ﻿  과제 진행하기.cpp
-  230418.vcxproj -> D:\CodingTest\Debug\230418.exe
+  추억 점수.cpp
+H:\CodingTest\230418\추억 점수.cpp(13,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\CodingTest\230418\추억 점수.cpp(18,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\CodingTest\230418\추억 점수.cpp(22,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  230418.vcxproj -> H:\CodingTest\Debug\230418.exe
