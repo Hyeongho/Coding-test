@@ -1,0 +1,6 @@
+﻿  리코쳇 로봇.cpp
+D:\CodingTest\230421\리코쳇 로봇.cpp(20,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230421\리코쳇 로봇.cpp(22,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230421\리코쳇 로봇.cpp(46,44): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230421\리코쳇 로봇.cpp(46,66): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  230421.vcxproj -> D:\CodingTest\Debug\230421.exe
