@@ -58,7 +58,7 @@ int change(char c, int dir)
 	}
 }
 
-int dfs(int x, int y, int dir, int len, vector<string> grid)
+int dfs(int x, int y, int dir, int len, vector<string> &grid)
 {
 	if (visit[x][y][dir] == true)
 	{
