@@ -1,0 +1,4 @@
+﻿  아이템 줍기.cpp
+D:\CodingTest\230515\아이템 줍기.cpp(21,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230515\아이템 줍기.cpp(23,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230515.vcxproj -> D:\CodingTest\Debug\230515.exe
