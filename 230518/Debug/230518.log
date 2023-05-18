@@ -1,0 +1,4 @@
+﻿  전력망을 둘로 나누기.cpp
+D:\CodingTest\230518\전력망을 둘로 나누기.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230518\전력망을 둘로 나누기.cpp(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230518.vcxproj -> D:\CodingTest\Debug\230518.exe
