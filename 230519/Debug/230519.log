@@ -1,0 +1,16 @@
+﻿  퍼즐 조각 채우기.cpp
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(33,40): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(33,67): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(75,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(106,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(160,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(162,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(176,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(178,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(193,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(195,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(201,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(207,25): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(211,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(213,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230519.vcxproj -> D:\CodingTest\Debug\230519.exe
