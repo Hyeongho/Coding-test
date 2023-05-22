@@ -1,16 +1,14 @@
 ﻿  퍼즐 조각 채우기.cpp
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(33,40): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(33,67): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(75,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(106,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(160,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(162,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(176,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(178,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(193,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(195,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(201,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(207,25): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(211,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230519\퍼즐 조각 채우기.cpp(213,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230519.vcxproj -> D:\CodingTest\Debug\230519.exe
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(35,36): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(35,63): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(64,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(93,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(147,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(149,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(171,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(173,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(179,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(189,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230519\퍼즐 조각 채우기.cpp(191,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\CodingTest\Debug\230519.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
