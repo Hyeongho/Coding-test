@@ -1,7 +1,1 @@
-﻿  공원 산책.cpp
-D:\CodingTest\230419\공원 산책.cpp(8,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230419\공원 산책.cpp(10,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230419\공원 산책.cpp(31,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230419\공원 산책.cpp(65,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230419\공원 산책.cpp(65,89): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230419.vcxproj -> D:\CodingTest\Debug\230419.exe
+﻿  230419.vcxproj -> D:\CodingTest\Debug\230419.exe
