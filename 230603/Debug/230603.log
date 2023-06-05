@@ -1,0 +1,4 @@
+﻿  롤케이크 자르기.cpp
+H:\CodingTest\230603\롤케이크 자르기.cpp(15,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\CodingTest\230603\롤케이크 자르기.cpp(20,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230603.vcxproj -> H:\CodingTest\Debug\230603.exe
