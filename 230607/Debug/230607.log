@@ -1,0 +1,5 @@
+﻿  호텔 대실.cpp
+D:\CodingTest\230607\호텔 대실.cpp(42,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230607\호텔 대실.cpp(49,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230607\호텔 대실.cpp(55,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230607.vcxproj -> D:\CodingTest\Debug\230607.exe
