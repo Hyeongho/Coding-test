@@ -1,0 +1,63 @@
+﻿  인사고과.cpp
+D:\CodingTest\230609\인사고과.cpp(32,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230609\인사고과.cpp(39,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230609\인사고과.cpp(61,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(5816,1): error C2664: 'bool (std::pair<int,int> &,std::pair<int,int> &)': 인수 2을(를) 'const _Ty'에서 'std::pair<int,int> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(5816,27): message : 변환하면서 한정자가 손실됩니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(6435): message : 컴파일되는 함수 템플릿 인스턴스화 '_FwdIt *std::lower_bound<_BidIt,std::pair<int,int>,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(_FwdIt,const _FwdIt,const _Ty &,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _FwdIt=std::pair<int,int> *,
+              _BidIt=std::pair<int,int> *,
+              _Ty=std::pair<int,int>,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(6457): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Buffered_inplace_merge_divide_and_conquer<_BidIt,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(_BidIt,_BidIt,_BidIt,int,int,std::pair<int,int> *const ,const ptrdiff_t,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _BidIt=std::pair<int,int> *,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(6502): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Buffered_inplace_merge_unchecked_impl<_BidIt,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(_BidIt,_BidIt,_BidIt,int,int,std::pair<int,int> *const ,const ptrdiff_t,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _BidIt=std::pair<int,int> *,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(7483): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Buffered_inplace_merge_unchecked<_BidIt,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(_BidIt,_BidIt,_BidIt,int,int,std::pair<int,int> *const ,const ptrdiff_t,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _BidIt=std::pair<int,int> *,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(7500): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Stable_sort_unchecked<std::pair<int,int>*,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(const _BidIt,const _BidIt,const int,std::pair<int,int> *const ,const ptrdiff_t,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _BidIt=std::pair<int,int> *,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
+D:\CodingTest\230609\인사고과.cpp(59): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::stable_sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(const _BidIt,const _BidIt,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=std::pair<int,int>,
+              _BidIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::pair<int,int>>>>,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(5913,1): error C2664: 'bool (std::pair<int,int> &,std::pair<int,int> &)': 인수 1을(를) 'const _Ty'에서 'std::pair<int,int> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(5913,19): message : 변환하면서 한정자가 손실됩니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(6441): message : 컴파일되는 함수 템플릿 인스턴스화 '_FwdIt *std::upper_bound<_BidIt,std::pair<int,int>,bool(__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)>(_FwdIt,_FwdIt,const _Ty &,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _FwdIt=std::pair<int,int> *,
+              _BidIt=std::pair<int,int> *,
+              _Ty=std::pair<int,int>,
+              _Pr=bool (__cdecl *)(std::pair<int,int> &,std::pair<int,int> &)
+          ]
