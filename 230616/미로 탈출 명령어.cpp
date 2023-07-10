@@ -29,7 +29,7 @@ void dfs(int n, int m, int x, int y, int r, int c, int k, int cnt, string& answe
         check = true;
 
         return;
-    } 
+    }
 
     if (cnt + abs(x - r) + abs(y - c) > k)
     {
@@ -46,10 +46,11 @@ void dfs(int n, int m, int x, int y, int r, int c, int k, int cnt, string& answe
             continue;
         }
 
-        if (nx >= 0 || ny >= 0 || nx < n || ny < m)
-        {
-            
-        }
+        result[cnt] = dis[i];
+
+        dfs(n, m, nx, ny, r, c, k, cnt + 1, answer);
+
+        result[cnt] = ' ';
     }
 }
 

@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5c6624ab-34ad-4cc1-96dd-3e5e8ba6bb32}</ProjectGuid>
+    <ProjectGuid>{4051985c-fa4a-4802-851a-3a24639f1a47}</ProjectGuid>
     <RootNamespace>My230709</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="줄 서는 방법.cpp" />
+    <ClCompile Include="합승 택시 요금.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

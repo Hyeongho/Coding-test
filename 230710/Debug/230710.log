@@ -1,0 +1,4 @@
+﻿  경주로 건설.cpp
+D:\CodingTest\230710\경주로 건설.cpp(37,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230710\경주로 건설.cpp(37,59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230710.vcxproj -> D:\CodingTest\Debug\230710.exe
