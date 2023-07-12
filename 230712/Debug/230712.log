@@ -1,0 +1,6 @@
+﻿  숫자 카드 나누기.cpp
+D:\CodingTest\230712\숫자 카드 나누기.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230712\숫자 카드 나누기.cpp(35,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230712\숫자 카드 나누기.cpp(54,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CodingTest\230712\숫자 카드 나누기.cpp(67,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230712.vcxproj -> D:\CodingTest\Debug\230712.exe
