@@ -26,3 +26,10 @@ vector<vector<int>> solution(int n) {
 
     return answer;
 }
+
+int main()
+{
+    solution(4);
+
+    return 0;
+}
