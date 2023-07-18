@@ -1,0 +1,8 @@
+﻿  자물쇠와 열쇠.cpp
+E:\CodingTest\230718\자물쇠와 열쇠.cpp(10,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230718\자물쇠와 열쇠.cpp(12,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230718\자물쇠와 열쇠.cpp(25,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230718\자물쇠와 열쇠.cpp(27,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230718\자물쇠와 열쇠.cpp(45,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230718\자물쇠와 열쇠.cpp(47,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230718.vcxproj -> E:\CodingTest\Debug\230718.exe
