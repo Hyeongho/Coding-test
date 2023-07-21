@@ -1,0 +1,5 @@
+﻿  부대복귀.cpp
+E:\CodingTest\230721\부대복귀.cpp(33,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230721\부대복귀.cpp(51,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230721\부대복귀.cpp(57,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230721.vcxproj -> E:\CodingTest\Debug\230721.exe
