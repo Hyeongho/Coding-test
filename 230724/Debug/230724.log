@@ -1,0 +1,9 @@
+﻿  파괴되지 않은 건물.cpp
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(39,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(45,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(47,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(53,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\CodingTest\230724\파괴되지 않은 건물.cpp(55,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230724.vcxproj -> E:\CodingTest\Debug\230724.exe
