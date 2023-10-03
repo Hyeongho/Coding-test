@@ -1,7 +1,0 @@
-﻿  빛의 경로 사이클.cpp
-D:\CodingTest\230511\빛의 경로 사이클.cpp(87,9): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230511\빛의 경로 사이클.cpp(97,9): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230511\빛의 경로 사이클.cpp(108,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230511\빛의 경로 사이클.cpp(110,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230511\빛의 경로 사이클.cpp(59): warning C4715: 'change': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  230511.vcxproj -> D:\CodingTest\Debug\230511.exe

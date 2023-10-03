@@ -1,6 +1,0 @@
-﻿  혼자서 하는 틱텍토.cpp
-D:\CodingTest\230605\혼자서 하는 틱텍토.cpp(63,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230605\혼자서 하는 틱텍토.cpp(65,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230605\혼자서 하는 틱텍토.cpp(84,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230605\혼자서 하는 틱텍토.cpp(86,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230605.vcxproj -> D:\CodingTest\Debug\230605.exe

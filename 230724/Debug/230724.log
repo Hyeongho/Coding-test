@@ -1,9 +1,10 @@
 ﻿  파괴되지 않은 건물.cpp
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(39,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(45,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(47,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(53,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-E:\CodingTest\230724\파괴되지 않은 건물.cpp(55,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230724.vcxproj -> E:\CodingTest\Debug\230724.exe
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(39,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(45,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(47,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(53,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230724\파괴되지 않은 건물.cpp(55,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\Coding-test\Debug\230724.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

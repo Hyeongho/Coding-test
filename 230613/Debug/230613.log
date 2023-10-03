@@ -1,6 +1,0 @@
-﻿  표현 가능한 이진트리.cpp
-D:\CodingTest\230613\표현 가능한 이진트리.cpp(28,18): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230613\표현 가능한 이진트리.cpp(36,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230613\표현 가능한 이진트리.cpp(48,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230613\표현 가능한 이진트리.cpp(85,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230613.vcxproj -> D:\CodingTest\Debug\230613.exe

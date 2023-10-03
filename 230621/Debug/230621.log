@@ -1,4 +1,0 @@
-﻿  디펜스 게임.cpp
-D:\CodingTest\230621\디펜스 게임.cpp(14,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230621\디펜스 게임.cpp(18,23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-  230621.vcxproj -> D:\CodingTest\Debug\230621.exe

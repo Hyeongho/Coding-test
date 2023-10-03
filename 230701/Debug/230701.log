@@ -1,5 +1,6 @@
 ﻿  보석 쇼핑.cpp
-D:\CodingTest\230701\보석 쇼핑.cpp(19,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230701\보석 쇼핑.cpp(36,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\CodingTest\230701\보석 쇼핑.cpp(48,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230701.vcxproj -> D:\CodingTest\Debug\230701.exe
+D:\Coding-test\230701\보석 쇼핑.cpp(19,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230701\보석 쇼핑.cpp(36,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230701\보석 쇼핑.cpp(48,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  LINK : D:\Coding-test\Debug\230701.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  230701.vcxproj -> D:\Coding-test\Debug\230701.exe

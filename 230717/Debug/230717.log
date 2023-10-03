@@ -1,3 +1,4 @@
 ﻿  [1차] 셔틀버스.cpp
-E:\CodingTest\230717\[1차] 셔틀버스.cpp(21,40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  230717.vcxproj -> E:\CodingTest\Debug\230717.exe
+D:\Coding-test\230717\[1차] 셔틀버스.cpp(12,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Coding-test\230717\[1차] 셔틀버스.cpp(30,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  230717.vcxproj -> D:\Coding-test\Debug\230717.exe
