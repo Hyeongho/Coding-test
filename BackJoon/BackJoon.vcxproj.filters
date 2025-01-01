@@ -30,5 +30,17 @@
     <ClCompile Include="디지털 티비.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="집합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="돌 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="돌 게임(DP).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="줄세우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
