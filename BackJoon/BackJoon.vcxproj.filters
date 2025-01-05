@@ -48,5 +48,14 @@
     <ClCompile Include="덩치.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="비밀번호 발음하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="임스와 함께하는 미니게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="쿠키의 신체 측정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
