@@ -63,5 +63,8 @@
     <ClCompile Include="스위치 켜고 끄기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="크로스 컨트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
